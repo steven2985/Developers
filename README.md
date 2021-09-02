@@ -6,6 +6,7 @@ Below is a list of people that made pull requests to the repository to add their
 # Developers:
 Zackary Santana <br />
 
+Daniel Ortiz <br />
 
 <br />
 
