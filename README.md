@@ -8,6 +8,8 @@ Zackary Santana <br />
 Daniel Ortiz <br />
 Vanessa Chu <br />
 
+Carlos Chavez <br />
+
 <br />
 
 ### Additional Notes
