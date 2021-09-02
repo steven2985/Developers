@@ -10,6 +10,8 @@ Vanessa Chu <br />
 
 Carlos Chavez <br />
 
+Eddie Briscoe <br />
+
 <br />
 
 ### Additional Notes
