@@ -8,6 +8,8 @@ Zackary Santana <br />
 
 Daniel Ortiz <br />
 
+Eddie Briscoe <br />
+
 <br />
 
 ### Additional Notes
