@@ -10,8 +10,7 @@ Daniel Ortiz <br />
 Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
-
-Jorge Leon 
+Jorge Leon <br />
 
 <br />
 
