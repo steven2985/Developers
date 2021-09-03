@@ -11,7 +11,11 @@ Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
 
+Jorge Leon 
+
 <br />
 
 ### Additional Notes
 The workshop was on 9/1/2021 and was an interactive way to practice markdown files while contributing to a practice open-source project.
+
+
