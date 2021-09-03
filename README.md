@@ -10,7 +10,7 @@ Daniel Ortiz <br />
 Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
-
+David Barcenas <br />
 <br />
 
 ### Additional Notes
