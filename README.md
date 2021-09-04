@@ -11,6 +11,7 @@ Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
 Javier Lemus <br />
+Stephanie Montecinos <br />
 
 <br />
 
