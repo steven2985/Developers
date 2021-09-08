@@ -10,6 +10,7 @@ Daniel Ortiz <br />
 Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
+Daniel Gonzalez
 Noah Pineiro <br />
 Jesus Fernandez <br />
 Stella Murcia <br />
