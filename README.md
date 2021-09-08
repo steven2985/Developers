@@ -10,6 +10,7 @@ Daniel Ortiz <br />
 Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
+Samuel Pellot <br />
 Dariel Brito <br />
 Steven Montecinos <br />
 Natalie Almonte <br />
