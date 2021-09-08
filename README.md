@@ -10,6 +10,7 @@ Daniel Ortiz <br />
 Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
+Julian Lopez <br />
 Ricardo Colom <br />
 Samuel Pellot <br />
 Dariel Brito <br />
