@@ -10,6 +10,7 @@ Daniel Ortiz <br />
 Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
+Alejandro Vecchio <br />
 Naomi Lima <br />
 Daniel Gonzalez
 Noah Pineiro <br />
