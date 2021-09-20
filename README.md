@@ -10,6 +10,7 @@ Daniel Ortiz <br />
 Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
+Angela Cruz <br />
 Musa Jean <br />
 Aiden Shi <br />
 Alejandro Vecchio <br />
