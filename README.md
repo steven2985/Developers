@@ -11,6 +11,24 @@ Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
 Musa Jean <br />
+Aiden Shi <br />
+Alejandro Vecchio <br />
+Naomi Lima <br />
+Daniel Gonzalez
+Noah Pineiro <br />
+Jesus Fernandez <br />
+Stella Murcia <br />
+Julian Lopez <br />
+Ricardo Colom <br />
+Samuel Pellot <br />
+Dariel Brito <br />
+Steven Montecinos <br />
+Natalie Almonte <br />
+Javier Lemus <br />
+Miguel Jacome <br />
+Carlos Fiallo Reyes <br />
+Eva Sennrich <br />
+Stephanie Montecinos <br />
 
 <br />
 
