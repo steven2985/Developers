@@ -10,6 +10,7 @@ Daniel Ortiz <br />
 Vanessa Chu <br />
 Carlos Chavez <br />
 Eddie Briscoe <br />
+Katia Mahoudeau <br />
 Christopher Rodriguez <br />
 Alexis Diaz <br />
 Jorge Leon <br />
